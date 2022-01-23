@@ -1,0 +1,11 @@
+C:\Users\noahl\source\repos\carbsfatcalc\carbsfatcalc\bin\Debug\carbsfatcalc.exe.config
+C:\Users\noahl\source\repos\carbsfatcalc\carbsfatcalc\bin\Debug\carbsfatcalc.exe
+C:\Users\noahl\source\repos\carbsfatcalc\carbsfatcalc\bin\Debug\carbsfatcalc.pdb
+C:\Users\noahl\source\repos\carbsfatcalc\carbsfatcalc\obj\Debug\carbsfatcalc.csproj.AssemblyReference.cache
+C:\Users\noahl\source\repos\carbsfatcalc\carbsfatcalc\obj\Debug\carbsfatcalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\noahl\source\repos\carbsfatcalc\carbsfatcalc\obj\Debug\carbsfatcalc.Form1.resources
+C:\Users\noahl\source\repos\carbsfatcalc\carbsfatcalc\obj\Debug\carbsfatcalc.Properties.Resources.resources
+C:\Users\noahl\source\repos\carbsfatcalc\carbsfatcalc\obj\Debug\carbsfatcalc.csproj.GenerateResource.cache
+C:\Users\noahl\source\repos\carbsfatcalc\carbsfatcalc\obj\Debug\carbsfatcalc.csproj.CoreCompileInputs.cache
+C:\Users\noahl\source\repos\carbsfatcalc\carbsfatcalc\obj\Debug\carbsfatcalc.exe
+C:\Users\noahl\source\repos\carbsfatcalc\carbsfatcalc\obj\Debug\carbsfatcalc.pdb
